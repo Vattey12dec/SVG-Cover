@@ -28,29 +28,29 @@
   <rect x="2" y="2" width="1196" height="336" rx="18" fill="url(#glowA)"/>
   <rect x="2" y="2" width="1196" height="336" rx="18" fill="url(#glowB)"/>
 
-  <!-- Left: text -->
-  <text x="60" y="68" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="3" fill="#22d3ee">&lt; CS &amp; CYBERSECURITY STUDENT /&gt;</text>
+  <!-- Left: text (block spans y=52 to y=288, same as the terminal, so top and bottom margins are equal) -->
+  <text x="60" y="62" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="3" fill="#22d3ee">&lt; CS &amp; CYBERSECURITY STUDENT /&gt;</text>
 
-  <text x="58" y="158" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="70" font-weight="650" fill="url(#title)">THORNG VATTEY</text>
-  <rect x="60" y="176" width="190" height="4" rx="2" fill="url(#title)"/>
+  <text x="58" y="132" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="70" font-weight="650" fill="url(#title)">THORNG VATTEY</text>
+  <rect x="60" y="148" width="190" height="4" rx="2" fill="url(#title)"/>
 
-  <text x="60" y="214" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="24" font-weight="600" fill="#e5e7eb">Computer Science &amp; Cybersecurity Student</text>
-  <text x="60" y="240" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" fill="#94a3b8">American University of Phnom Penh · ACLEDA University of Business</text>
-  <text x="60" y="266" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#64748b">Build it. Break it in the lab. Fix it. Repeat.</text>
+  <text x="60" y="188" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="24" font-weight="600" fill="#e5e7eb">Computer Science &amp; Cybersecurity Student</text>
+  <text x="60" y="213" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" fill="#94a3b8">American University of Phnom Penh · ACLEDA University of Business</text>
+  <text x="60" y="238" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#64748b">Build it. Break it in the lab. Fix it. Repeat.</text>
 
   <!-- Tags -->
   <g font-family="Consolas, 'Courier New', monospace" font-size="13" text-anchor="middle">
-    <rect x="60" y="284" width="108" height="30" rx="15" fill="#22d3ee" fill-opacity="0.08" stroke="#22d3ee" stroke-opacity="0.6"/>
-    <text x="114" y="304" fill="#67e8f9">Networking</text>
-    <rect x="178" y="284" width="100" height="30" rx="15" fill="#a78bfa" fill-opacity="0.08" stroke="#a78bfa" stroke-opacity="0.6"/>
-    <text x="228" y="304" fill="#c4b5fd">Security</text>
-    <rect x="288" y="284" width="92" height="30" rx="15" fill="#22d3ee" fill-opacity="0.08" stroke="#22d3ee" stroke-opacity="0.6"/>
-    <text x="334" y="304" fill="#67e8f9">Android</text>
-    <rect x="390" y="284" width="70" height="30" rx="15" fill="#a78bfa" fill-opacity="0.08" stroke="#a78bfa" stroke-opacity="0.6"/>
-    <text x="425" y="304" fill="#c4b5fd">Web</text>
+    <rect x="60" y="258" width="108" height="30" rx="15" fill="#22d3ee" fill-opacity="0.08" stroke="#22d3ee" stroke-opacity="0.6"/>
+    <text x="114" y="278" fill="#67e8f9">Networking</text>
+    <rect x="178" y="258" width="100" height="30" rx="15" fill="#a78bfa" fill-opacity="0.08" stroke="#a78bfa" stroke-opacity="0.6"/>
+    <text x="228" y="278" fill="#c4b5fd">Security</text>
+    <rect x="288" y="258" width="92" height="30" rx="15" fill="#22d3ee" fill-opacity="0.08" stroke="#22d3ee" stroke-opacity="0.6"/>
+    <text x="334" y="278" fill="#67e8f9">Android</text>
+    <rect x="390" y="258" width="70" height="30" rx="15" fill="#a78bfa" fill-opacity="0.08" stroke="#a78bfa" stroke-opacity="0.6"/>
+    <text x="425" y="278" fill="#c4b5fd">Web</text>
   </g>
 
-  <!-- Right: terminal window -->
+  <!-- Right: terminal window (y=52 to y=288) -->
   <g>
     <rect x="720" y="52" width="426" height="236" rx="12" fill="#070b16" stroke="#a78bfa" stroke-opacity="0.45" stroke-width="1.5"/>
     <path d="M720 64a12 12 0 0 1 12-12h402a12 12 0 0 1 12 12v22H720z" fill="#111a30"/>
